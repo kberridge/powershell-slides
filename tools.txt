@@ -1,0 +1,4 @@
+psake
+remoting (enter-pssession, invoke-command)
+background-jobs
+sql-ps

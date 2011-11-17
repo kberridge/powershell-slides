@@ -1,0 +1,10 @@
+Burning River Developers
+  sponsored by Matrix Pointe Software
+               and Mobile Defense
+
+The Shell Show
+  Kevin Berridge - @kberridge
+  Joe Cannatti - @JoeCannatti
+
+"Slides"
+  https://bitbucket.org/kberridge/powershell-slides
